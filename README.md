@@ -1,7 +1,8 @@
 # curso_academia_do_flutter
-# Aqui começa a minha caminhada rumo ao aprendizado da linguagem Dart. 
+# Aqui começa a minha caminhada rumo ao aprendizado "Dart & Flutter".
+# Próxima parada, Desenvolvedor Mobile-(Flutter)💙💜💚\o/.
 
- ******Próxima parada, Desenvolvedor Mobile-(Flutter)💙💜💚\o/.*******
+ 
  Olá, me chamo Ricardo Oliveira e por meio desse readme, quero te contar como comecei 
  a me interessar e me apaixonar pelo universo do “Desenvolvimento Mobile - Flutter”. 
  Então bora lá! Tive meu primeiro contato com o mundo do desenvolvimento mobile no 
