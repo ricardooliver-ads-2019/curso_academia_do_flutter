@@ -1,6 +1,7 @@
 List listaDynami = [];
 List<String> listaString = ['R', 'O'];
 //...
+
 var lista = [];
 var listaInt = <int>[];
 

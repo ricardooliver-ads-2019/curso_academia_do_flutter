@@ -10,7 +10,7 @@
   int numeroInteiro = 2;
   var numeroInteiro2 = 3;
 //-------
-// double --> Números flutuantes (1.5, 5.2, 100.00...)
+// double --> Números flutuantes / decimal (1.5, 5.2, 100.00...)
   double numeroQuebrado = 8.5;
   var numeroQuebado = 3.5;
 //-------
